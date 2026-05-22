@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     subgraph CWL["ChipWhisperer Lite"]
         CW_GND["Pin 2: GND"]
